@@ -36,7 +36,7 @@ The system supports key functionalities such as adding, deleting, updating, and 
 <a href="https://www.linkedin.com/posts/shreya-chakraborty-876694232_swinggui-sqlintegration-bookmanagement-activity-7150733073179918336-kvqd?utm_source=share&utm_medium=member_desktop">Project</a> 
 
 <h2>Tech Stack</h2>
-  - Code: Java
-  - UI: Java Swing
-  - DataBase: MySQL
-  - DataBase Connectivity: Java DataBase Connectivity(JDBC)
+▪ Code: Java
+▪ UI: Java Swing
+▪ DataBase: MySQL
+▪ DataBase Connectivity: Java DataBase Connectivity(JDBC)
